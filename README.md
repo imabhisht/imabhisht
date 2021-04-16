@@ -30,7 +30,7 @@ Also I'm a Competitive Programmer and i keep posting Problem solving questions S
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-**Languages and Tools:**  
+**Technologies and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true"></code>

@@ -1,4 +1,4 @@
-
+<!-- 
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -85,6 +85,19 @@ Flutter     	█░░░░░░░░░░░░░░░░░░░░░�
 
 <!-- TODO-IST:END -->
 
-- 👋 Hi, I’m @team-codery - 👀 I’m interested in ... - 🌱 I’m currently learning ... - 💞️ I’m looking to collaborate on ... - 📫 How to reach me ... <!--- team-codery/team-codery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
 
 
+
+ -->
+ 
+ 
+ ### Hi there 👋
+
+- 🔭 I'm a Software Engineering Aspirants 
+- 🌱 All my Technical Project [Github Repo's](https://github.com/imabhisht?tab=repositories)
+<!-- - 👯 I’m looking to collaborate on ... Android -->
+<!-- - 🤔 I’m looking for help with ... Firebase, MongoDB -->
+- 💬 Ask me about Anything, I am happy to help;
+- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/imabhisht/)
+- 😄 Pronouns: ... He/him
+- ⚡ Fun fact: ...Developers love to stay awake at Night. LOL

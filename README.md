@@ -1,7 +1,8 @@
  ### Hi there 👋
 
-- 🔭 I'm a Software Engineering.
-- 👨‍💼 Currently working as Senior Backend Engineer at Core Media & [Passion8.in](https://passion8.in).
+- 🔭 I'm a Software Engineer.
+- 🧑‍💻 Currently working as Senior Backend Engineer at Core Media & [Passion8.in](https://passion8.in).
+- 👨‍💼 Working on [Educacy](https://www.educacy.io).
 - 🌐 My [Tech Portfolio](https://www.imabhisht.com)!
 - 🌱 All my Technical Project are here: [Github Repo's](https://github.com/imabhisht?tab=repositories).
 - 💬 Ask me about Anything, I am Happy to help.

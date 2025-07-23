@@ -1,10 +1,11 @@
- ### Hi there 👋
+### Hi there 👋 I'm Abhisht
 
-- 🔭 I'm a Computer Science Student and a Pro Googler...
-- 🏆 SIH 2023 Finalist
-- 🌐 My [Tech Portfolio](https://www.imabhisht.com)!
-- 🌱 All my Technical Project are here: [Github Repo's](https://github.com/imabhisht?tab=repositories).
-- 💬 Ask me about Anything, I am Happy to help.
-- 📫 How to Reach me: [Linkedin](https://www.linkedin.com/in/imabhisht/)
-- 😄 Pronouns: He/him
-- ⚡ About me: Developer by day, dreamer by night, coding the future one line at a time.
+- 🧑‍💻 Full Stack / Backend Engineer with 3 years of experience
+- 🏆 Winner — Smart India Hackathon 2024 | Finalist — 2023
+- 🔭 Currently building GenAI tools, RAG systems, and real-time infrastructure
+- 🌐 My Portfolio: [imabhisht.com](https://www.imabhisht.com)
+- 💻 All Projects: [GitHub Repositories](https://github.com/imabhisht?tab=repositories)
+- 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/imabhisht/)
+- ⚡ Fun fact: I build AI agents by day and dream up product ideas by night
+
+Let’s build something cool 🚀
